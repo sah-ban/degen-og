@@ -721,7 +721,7 @@ import { useEffect, useCallback, useState } from "react";
 import sdk, {
     AddFrame,
   FrameNotificationDetails,
-  SignIn as SignInCore,
+  // SignIn as SignInCore,
   type Context,
 } from "@farcaster/frame-sdk";
 import { Button } from "~/components/ui/Button";
